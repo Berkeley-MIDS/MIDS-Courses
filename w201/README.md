@@ -1,3 +1,14 @@
+# W201: Research Design and Applications for Data and Analysis (RDADA)
+
+## Course Overview and Objectives
+
+## Preparation 
+
+## Helpful Resources 
+
+## Further Reading
+
+# Old Stuff that needs to be cleaned up:
 ## What is Data Science?
 
 RDADA aims to help incoming students from all sorts of backgrounds get on the same page about what it means to study and practice data science. To understand what to learn, you need to know how we got to this situation, what types of roles exist and what the future might have in store. 

@@ -1,3 +1,14 @@
+# W203: Statistics for Data Science
+
+## Course Overview and Objectives
+
+## Preparation 
+
+## Helpful Resources 
+
+## Further Reading
+
+# Old Stuff that needs to be cleaned up:
 ## Exploring and Analyzing Data
 
 Also known as *Introduction to Statistics with R*

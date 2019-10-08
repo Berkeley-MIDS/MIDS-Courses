@@ -1,4 +1,14 @@
-## Data Visualization and Communication
+# W209: Data Visualization and Communication
+
+## Course Overview and Objectives
+
+## Preparation 
+
+## Helpful Resources 
+
+## Further Reading
+
+# Old Stuff that needs to be cleaned up:
 
 This course aims to teach the fundamentals of communicating data and analysis to people of different backgrounds. 
 

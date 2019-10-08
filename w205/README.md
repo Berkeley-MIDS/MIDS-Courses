@@ -1,3 +1,14 @@
+# W205: Data Engineering
+
+## Course Overview and Objectives
+
+## Preparation 
+
+## Helpful Resources 
+
+## Further Reading
+
+# Old Stuff that needs to be cleaned up:
 ## Storing and Retrieving Data
 
 _No one really knows what this course is about because it has been changed multiple times since creation._
