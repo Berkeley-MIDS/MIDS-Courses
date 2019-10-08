@@ -1,4 +1,4 @@
-# W203: Statistics for Data Science
+# W266
 
 ## Course Overview and Objectives
 
@@ -7,4 +7,3 @@
 ## Helpful Resources 
 
 ## Further Reading
-

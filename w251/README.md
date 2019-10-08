@@ -1,3 +1,14 @@
+# W2
+
+## Course Overview and Objectives
+
+## Preparation 
+
+## Helpful Resources 
+
+## Further Reading
+
+# Old Stuff that needs to be cleaned up:
 # W251 - Scaling Up! Really Big Data
 
 This course primes data science professionals for work using modern cloud computing frameworks and software, all of which is open source. The course serves as a survey of many of the popular and useful technologies that have been built in the last few years that have enabled processing of high volume and/or velocity data. The course also helps prepare you to deploy new technology in your stack if you may not have the assistance of a large scale IT support team.
