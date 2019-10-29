@@ -15,6 +15,23 @@
 3. Assigned Reading
 4. Async videos @ 2x speed
 
+#### Unit 4
+1. [MIT OCW - Discrete Random Variables I](https://www.youtube.com/watch?v=3MOahpLxj6A&index=5&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+2. [MIT OCW - Discrete Random Variables II](https://www.youtube.com/watch?v=-qCEoqpwjf4&index=6&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+3. Assigned Reading for Discrete Random Variables 
+4. [MIT OCW - Continuous Random Variables](https://www.youtube.com/watch?v=mHfn_7ym6to&index=8&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+5. Assigned Reading for Continuous Random Variables 
+6. Async videos at 2x speed
+
+#### Unit 5
+1. [MIT OCW - Multiple Continuous Random Variables](https://www.youtube.com/watch?v=CadZXGNauY0&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&index=9)
+2. [MIT OCW - Continuous Bayes' Rule; Derived Distributions](https://www.youtube.com/watch?v=H_k1w3cfny8&index=10&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+3. [MIT OCW - Derived Distributions (ctd.); Covariance](https://www.youtube.com/watch?v=l4NoMKEHQwM&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&index=11)
+
+#### Unit 6
+1. [MIT OCW - Bernoulli Process](https://www.youtube.com/watch?v=gMTiAeE0NCw&index=13&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+2. [MIT OCW - Poisson Process I](https://www.youtube.com/watch?v=jsqSScywvMc&index=14&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+2. [MIT OCW - Poisson Process II](https://www.youtube.com/watch?v=XsYXACeIklU&index=15&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
 
 
 ## Further Reading
