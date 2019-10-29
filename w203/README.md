@@ -5,6 +5,17 @@
 ## Preparation 
 
 ## Helpful Resources 
+### Unit by Unit 
+#### Unit 1&2
+1. [Axioms of Probability](https://www.youtube.com/watch?v=3MOahpLxj6A&index=5&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+
+#### Unit 3
+1. [MIT OCW - Conditioning and Bayes' Rule](https://www.youtube.com/watch?v=TluTv5V0RmE)
+2. [MIT OCW - Independence](https://www.youtube.com/watch?v=19Ql_Q3l0GA)
+3. Assigned Reading
+4. Async videos @ 2x speed
+
+
 
 ## Further Reading
 
